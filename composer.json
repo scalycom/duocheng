@@ -1,0 +1,19 @@
+{
+    "name": "duocheng/hasher",
+    "description": "hasher_description",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "songchao",
+            "email": "1014126299@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+
+    "autoload": {
+        "psr-4": {
+            "Duocheng\\Hasher\\":"src/"
+        }
+    },
+}
