@@ -9,11 +9,11 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
 
     "autoload": {
         "psr-4": {
             "Duocheng\\Hasher\\":"src/"
         }
-    },
+    }
 }
